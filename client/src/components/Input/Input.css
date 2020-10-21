@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  border-top: 1px solid #d3d3d3;
+}
+
+.input {
+  border: none;
+  border-radius: 0;
+  padding: 5%;
+  width: 80%;
+  font-size: 18px;
+  border-bottom-left-radius: 10px;
+}
+
+.sendButton {
+  color: rgb(0, 0, 0) !important;
+  background: #bc90f6;
+  padding: 20px;
+  display: inline-block;
+  border: none;
+  width: 20%;
+  border-bottom-right-radius: 10px;
+}

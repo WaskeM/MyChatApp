@@ -1,0 +1,18 @@
+.outerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(83, 83, 83);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: rgb(235, 223, 223);
+    border-radius: 8px;
+    height: 60%;
+    width: 35%;
+    min-width: 500px;
+}

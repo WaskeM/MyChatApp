@@ -1,0 +1,25 @@
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    color: rgb(114, 221, 137);
+    height: 50%;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.activeContainer {
+    display: flex;
+    align-items: center;
+}
+
+.activeItem {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: rgb(191, 128, 204);
+}
+
+.activeContainer img {
+    padding-left: 10px;
+}
